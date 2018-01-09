@@ -252,10 +252,10 @@ header {
 }
 
 #navbar nav a {
-  display: inline-block;
+  display: inline;
   width: 16.6666667%;
   margin: 0;
-  /*padding: 22px 0;*/
+  padding: 22px 0;
   text-transform: uppercase;
   color: black;
   text-align: center;
