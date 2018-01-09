@@ -1,41 +1,42 @@
 @media only screen and (max-width: 1108px){
 
-  .wrapper {
-    width: 90%;
-  }
+      .wrapper {
+        width: 90%;
+      }
 
-  #social {
-    position: absolute;
-    top: 82px;
-    right: 4%;
-    width: auto;
-  }
+      #social {
+        position: absolute;
+        top: 82px;
+        right: 4%;
+        width: auto;
+      }
 
-  #social a {
-    display: inline-block;
-  }
+      #social a {
+        display: inline-block;
+      }
 }
 
 @media only screen and (max-width: 900px) {
 
-  body {
-    font-size: 85%;
-  }
+      body {
+        font-size: 85%;
+      }
 
-  #logo h1 {
-    width: 35px;
-    height: 35px;
-  }
+      #logo h1 {
+        width: 35px;
+        height: 35px;
+      }
 
-  #logo h1 {
-    width: 35px;
-    height: 35px;
-  }
+      #logo h1 {
+        width: 35px;
+        height: 35px;
+      }
 
-  #logo h2 {
-    font-size: 2.2em;
-    
-  }
+      #logo h2 {
+        font-size: 2.2em;
+      }
+      
+
 }
 
 @media only screen and (max-width: )
